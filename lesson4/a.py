@@ -1,0 +1,3 @@
+print(6**2+15)
+# use print to display the result of 6**2+15
+# dont use chinese symbols 4 invalid errors
